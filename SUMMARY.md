@@ -3,7 +3,7 @@
 * [Test page](README.md)
 * [Test page2](test-page2.md)
 
-## group1
+## group test
 
 * [page1](group1/page1.md)
 
